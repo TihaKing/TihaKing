@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TihaKing
 - 👀 I’m interested in coffe
 - 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on everithing
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me just email
 
 <!---
